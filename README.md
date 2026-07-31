@@ -12,8 +12,11 @@ Unlike a traditional portfolio, this project is being developed as a long-term e
 
 - [x] Product Requirements
 - [x] Site Map
-- [ ] Design Principles
-- [ ] Design System
-- [ ] Content Strategy
+- [x] Design Principles
+- [x] Design System
+- [x] Content Architecture
+- [x] Road Map
+- [x] Engineering Manifesto
+- [x] Decision Log
 - [ ] Implementation
 - [ ] Deployment
